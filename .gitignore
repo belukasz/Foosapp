@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/.idea/
+/src/main/resources/notification.properties
+/src/main/resources/phone_numbers.csv
